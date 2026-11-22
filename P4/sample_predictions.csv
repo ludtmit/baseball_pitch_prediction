@@ -1,0 +1,6 @@
+true_label,p_fastball,p_offspeed,p_breaking,p_slider
+fastball,0.70,0.10,0.10,0.10
+slider,0.20,0.10,0.20,0.50
+breaking,0.45,0.10,0.35,0.10
+offspeed,0.20,0.60,0.10,0.10
+slider,0.40,0.10,0.10,0.40
