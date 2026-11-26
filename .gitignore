@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Data snapshot and prediction CSVs are large; share them through Google Drive.
+data/
