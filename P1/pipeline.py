@@ -80,7 +80,7 @@ def baseline_probs(train, target):
     """Category probabilities for each target pitch, using training-set frequencies only.
 
     overall_mix:       league-wide mix (its top pick is always fastball)
-    pitcher_mix:       the pitcher's own mix -> top pick is his most common pitch (proposal baseline)
+    pitcher_mix:       the pitcher's own mix -> top pick is their most common pitch (proposal baseline)
     pitcher_count_mix: the pitcher's mix in the current count
     Each level is smoothed toward the one above, so unseen pitchers get the league mix.
     """

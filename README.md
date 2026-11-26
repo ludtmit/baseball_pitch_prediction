@@ -9,7 +9,7 @@ fastball, offspeed, breaking or slider. Data: 2026 MLB regular-season Statcast p
 
 | Folder | Owner | Contents |
 |---|---|---|
-| `P1/` | P1 | Data pipeline, shared train/dev/test split, baselines |
+| `P1/` | P1 | Data pipeline, shared train/dev/test split, baselines (`baselines.ipynb`) |
 | `P2/` | P2 | Pitcher MLP |
 | `P3/` | P3 | Features, first general MLP (`baseball_predict.ipynb`) |
 | `P4/` | P4 | Evaluation: accuracy, log loss, confusion matrix |

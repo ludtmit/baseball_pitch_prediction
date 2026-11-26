@@ -5,6 +5,9 @@ and scores the baselines with P4's `evaluate.py`. The loading, labeling, feature
 split logic started as Vijayanidhi's cells B–D in `P3/baseball_predict.ipynb`; it is
 moved here unchanged in behavior so all stages share one copy.
 
+[`baselines.ipynb`](baselines.ipynb) runs the same steps with saved outputs
+(split table, baseline scores, confusion matrix) and opens in Colab.
+
 ```
 python P1/test_pipeline.py              # self-check on made-up data (seconds)
 python P1/pipeline.py                   # build/load snapshot, baselines on dev
